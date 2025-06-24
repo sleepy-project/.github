@@ -1,8 +1,11 @@
-<center><img src="https://ghsrc.wyf9.top/icons/sleepy_icon_nobg.png" width="150" /></center>
+<div align="center">
+<img src="https://ghsrc.wyf9.top/icons/sleepy_icon_nobg.png" width="150" />
+<br/>
+<font size=5>
+    <b><i>:eyes: Sleepy Project :eyes:</i></b>
+</font>
 
-## Sleepy Project
-
-这里是 Sleepy 项目的官方组织!
+</div>
 
 ### Repos
 
