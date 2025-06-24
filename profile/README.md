@@ -1,4 +1,4 @@
-![Sleepy](https://github.com/sleepy-project/.github/blob/main/icons/SleepyIcon.png)
+<cente,><img src="https://ghsrc.wyf9.top/icons/sleepy_icon_nobg.png" width="200" /></center>
 
 ## Sleepy Project
 
