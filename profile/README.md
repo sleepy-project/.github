@@ -1,4 +1,4 @@
-<cente,><img src="https://ghsrc.wyf9.top/icons/sleepy_icon_nobg.png" width="200" /></center>
+<center><img src="https://ghsrc.wyf9.top/icons/sleepy_icon_nobg.png" width="150" /></center>
 
 ## Sleepy Project
 
