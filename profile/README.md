@@ -1,3 +1,5 @@
+![Sleepy](https://github.com/sleepy-project/.github/blob/main/icons/SleepyIcon.png)
+
 ## Sleepy Project
 
 这里是 Sleepy 项目的官方组织!
