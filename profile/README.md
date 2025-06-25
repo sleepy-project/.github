@@ -14,7 +14,7 @@
 
 ### Resources
 
-- 项目图标 (由 @NT-AUTHORITY 制作): [.github/icons/](https://github.com/sleepy-project/.github/tree/main/icons)
+- 项目图标 (由 @NT-AUTHORITY 制作): [icons](https://github.com/sleepy-project/.github/tree/main/icons/README.md)
 - 贡献准则: [CODE_OF_CONDUCT.md](https://github.com/sleepy-project/.github/blob/main/CODE_OF_CONDUCT.md)
 - 安全策略: [SECURITY.md](https://github.com/sleepy-project/.github/blob/main/SECURITY.md)
 
