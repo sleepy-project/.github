@@ -1,6 +1,6 @@
 # icons
 
-Sleepy Project 的图标文件, 由 [@NT-AUTHORITY](https://github.com/NT-AUTHORITY) 提供
+Sleepy Project 的图标文件, 由 [@NtKrnl32](https://github.com/NtKrnl32) 提供
 
 - [`SleepyIcon_Black.png`](./SleepyIcon_Black.png): **黑底**图标
 - [`SleepyIcon_White.png`](./SleepyIcon_White.png): **白底**图标

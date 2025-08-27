@@ -1,4 +1,3 @@
-
 # SiiWay 行为准则
 
 ## 对代码中 AI 使用的约束
@@ -106,9 +105,10 @@
 
 **团队核心成员的*直接*联系方式:**
 
-- **[wyf9](https://siiway.top/members/wyf9)**: [wyf9@siiway.top](https://siiway.top/t/m/wyf9/siiway.top)
-- **[xhc861](https://siiway.top/members/xhc861)**: [xhc861@siiway.top](https://siiway.top/t/m/xhc861/siiway.top)
-- **[Dobastickrn](https://siiway.top/members/Dobastickrn)**: [dobastickrn@siiway.top](https://siiway.top/t/m/dobastickrn/siiway.top)
+- **[wyf9](https://siiway.top/members/wyf9)**: [wyf9@siiway.top](https://siiway.top/t/m/wyf9)
+- **[xhc861](https://siiway.top/members/xhc861)**: [xhc861@siiway.top](https://siiway.top/t/m/xhc861)
+- **[Dobastickrn](https://siiway.top/members/Dobastickrn)**: [Dobastickrn@siiway.top](https://siiway.top/t/m/Dobastickrn)
+- **[NtKrnl32](https://siiway.top/members/nt)**: [nt@siiway.top](https://siiway.top/t/m/nt)
 
 ---
 
